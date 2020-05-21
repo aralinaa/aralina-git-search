@@ -1,0 +1,10 @@
+/* purgecss start ignore */
+@tailwind  base;
+@tailwind  components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+.page-wrap{
+  min-height: calc(100vh - 155px - 112px);
+}
